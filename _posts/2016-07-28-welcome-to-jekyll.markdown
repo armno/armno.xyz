@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to armno.xyz!"
 date:   2016-07-28 23:13:59 +0700
 categories: jekyll update
 ---
