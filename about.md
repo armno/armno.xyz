@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is armno.xyz
+This is armno.xyz. Welcome!
